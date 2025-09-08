@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "components/footer-links.html",
+    "href": "components/footer-links.html",
+    "title": "Projeto BD Ambiental (USP)",
+    "section": "",
+    "text": "Rodap� com links"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Projeto BD Ambiental",
@@ -19,5 +26,12 @@
     "title": "Projeto BD Ambiental",
     "section": "",
     "text": "Os códigos de trabalho ficam em _SCRIPTS_BD_AMBIENTAL/ (R e Python).\nRelatórios e documentação final são renderizados aqui no site via Quarto."
+  },
+  {
+    "objectID": "components/hero.html",
+    "href": "components/hero.html",
+    "title": "1 Hero section",
+    "section": "",
+    "text": "1 Hero section"
   }
 ]
